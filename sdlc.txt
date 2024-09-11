@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 isi kaki
+=======
+commit 5
+>>>>>>> parent of afcd267 (commit keenam)
